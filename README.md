@@ -85,8 +85,12 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 ## OUTPUT 
 
 
+![iot ex 6 image 1](https://github.com/pawan2006-png/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/150067867/433f2e25-c94d-4f2c-93c1-4d4911901939)
 
+![iot ex 6 image 2](https://github.com/pawan2006-png/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/150067867/90b17e9d-db75-4d33-b819-20ac9245cb48)
+
+![iot ex 6 image 3](https://github.com/pawan2006-png/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/150067867/a78f3adf-d157-4345-9601-28d40d50d698)
 
 ## Results: 
 
-
+Dragino is configured successfully.
